@@ -1,0 +1,20 @@
+/* Write your code here. */
+.each-thumbnail-img {
+  list-style-type: none;
+  border-radius: 6px;
+  width: 70px;
+  height: 70px;
+  margin-right: 2%;
+  opacity: 0.3;
+  outline: none;
+}
+.each-thumbnail-img button {
+  border-width: 0px;
+  height: 100%;
+  width: 100%;
+  background-color: transparent;
+}
+
+.selected-thumbnail-image {
+  opacity: 1;
+}
